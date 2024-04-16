@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dorail</h1>
 <h3 align="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, facere!</h3>
 
-<img align="center" src="https://media1.tenor.com/m/K3OBpzsXzxYAAAAC/cat-nyan-cat.gif">
+<img align="center" width="700" src="https://media1.tenor.com/m/K3OBpzsXzxYAAAAC/cat-nyan-cat.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorail&label=Profile%20views&color=0e75b6&style=flat" alt="dorail" /> </p>
+<p align="left" <img src="https://komarev.com/ghpvc/?username=dorail&label=Profile%20views&color=0e75b6&style=flat" alt="dorail" /> </p>
 
 - 📫 How to reach me **reloadpoom@gmail.com**
 
