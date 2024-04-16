@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dorail</h1>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi+%2C+I'm+Dorail" alt="Typing SVG" /></a>
 <h3 align="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, facere!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorail&label=Profile%20views&color=0e75b6&style=flat" alt="dorail" /> </p>
