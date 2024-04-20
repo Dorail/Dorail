@@ -2,7 +2,7 @@
 <h3 align="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, facere!</h3>
 <br>
 <p align="left" <img src="https://komarev.com/ghpvc/?username=dorail&label=Profile%20views&color=0e75b6&style=flat" alt="dorail" /> </p>
-- 📫 How to reach me **reloadpoom@gmail.com**
+- 📫 How to reach me ** reloadpoom@gmail.com **
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <br>
