@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dorail</h1>
 <h3 align="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, facere!</h3>
 <br>
+<img src="https://tenor.com/view/shanks-haki-shanks-meco-gif-26482142" alt="none" width={400} height={400} />
+<br>
 <p align="left" <img src="https://komarev.com/ghpvc/?username=dorail&label=Profile%20views&color=0e75b6&style=flat" alt="dorail" /> </p>
 - 📫 How to reach me ** reloadpoom@gmail.com **
 <br>
