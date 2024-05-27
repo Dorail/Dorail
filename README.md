@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dorail</h1>
 <h3 align="center">Hello, my name is Chanapat. I'm a junior frontend developer, currently exploring backend technologies with the goal of transitioning into a full-stack role.</h3>
 <br>
-<img align="center" src="https://cdn.discordapp.com/attachments/1117080199528468561/1244676352301469828/tenor.gif?ex=6655faaf&is=6654a92f&hm=69218194756539c4f3fd73b58d2090dbc2ce4917fad0b27ade3ae1aa8d45826e&" alt="none" width="800"/>
+<img align="center" src="https://cdn.discordapp.com/attachments/1117080199528468561/1244676352301469828/tenor.gif?ex=6655faaf&is=6654a92f&hm=69218194756539c4f3fd73b58d2090dbc2ce4917fad0b27ade3ae1aa8d45826e&" alt="none" width="900"/>
 <br>
 <p align="left" <img src="https://komarev.com/ghpvc/?username=dorail&label=Profile%20views&color=0e75b6&style=flat" alt="dorail" /> </p>
 - 📫 How to reach me ** reloadpoom@gmail.com **
