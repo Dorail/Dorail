@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dorail</h1>
 <h3 align="center">Hello, my name is Chanapat. I'm a junior frontend developer, currently exploring backend technologies with the goal of transitioning into a full-stack role.</h3>
 <br>
-<img align="center" src="https://ibb.co/9mWF3WY0" alt="none" width="1200"/>
+<img align="center" src="https://i.ibb.co/p6dtrdXT/itachi22.gif" alt="none" width="1200"/>
 <br>
 <p align="left" <img src="https://komarev.com/ghpvc/?username=dorail&label=Profile%20views&color=0e75b6&style=flat" alt="dorail" /> </p>
 - 📫 How to reach me ** reloadpoom@gmail.com **
