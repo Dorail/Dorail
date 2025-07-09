@@ -2,11 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7E3AF2&center=true&vCenter=true&width=435&lines=Hello%2C+I%27m+Chanapat;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7E3AF2&center=true&vCenter=true&width=435&lines=Hello%2C+I%27m+Chanapat;" alt="Typing SVG" />
-  </a>
-</h3>
+<div align="center">
+  <img src="https://dorail.xyz/_next/image?url=%2FprofileBanner%2Fbanner.gif&w=1200&q=75" alt="Coding Banner" style="max-width: 90%;"/>
+</div>
 
 <br>
 
