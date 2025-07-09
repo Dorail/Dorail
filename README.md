@@ -57,8 +57,12 @@
 
 <br>
 
-<h2 align="center">🎧 Currently With</h2>
+<h2 align="center">🎧 Currently Playing</h2>
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&bar_color=7e3af2&bar_color_cover=true" alt="Spotify"/>
-</p>
+<div align="center">
+  <a href="https://open.spotify.com/track/3F3cGa5To6mJF6nGI5HUUE" target="_blank">
+    <img src="https://i.ibb.co/7Yxq0j3/sza-saturn.gif" alt="SZA-Saturn" width="60%"/>
+    <br>
+    <img src="https://img.shields.io/badge/Now_Playing-SZA_Saturn-7E3AF2?style=for-the-badge&logo=spotify" alt="Spotify"/>
+  </a>
+</div>
