@@ -1,19 +1,64 @@
-<h1 align="center">Hi 👋, I'm Dorail</h1>
-<h3 align="center">Hello, my name is Chanapat. I'm a junior frontend developer, currently exploring backend technologies with the goal of transitioning into a full-stack role.</h3>
-<br>
-<img align="center" src="https://i.ibb.co/p6dtrdXT/itachi22.gif" alt="none" width="1200"/>  
-<br>
-<p align="left" <img src="https://komarev.com/ghpvc/?username=dorail&label=Profile%20views&color=0e75b6&style=flat" alt="dorail" /> </p>
-- 📫 How to reach me ** reloadpoom@gmail.com **
-<br>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7E3AF2&center=true&vCenter=true&width=435&lines=สวัสดี+ฉันคือ+Dorail;Junior+Frontend+Developer;กำลังก้าวสู่+Full-Stack" alt="Typing SVG" />
+</h1>
 
+<h3 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E3AF2&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Chanapat;Frontend+Dev+Exploring+Backend;Future+Full-Stack+Developer" alt="Typing SVG" />
+  </a>
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorail&show_icons=true&locale=en&layout=compact" alt="dorail" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorail&show_icons=true&locale=en" alt="dorail" /></p>
+<div align="center">
+  <img src="https://i.ibb.co/p6dtrdXT/itachi22.gif" alt="Coding" width="100%"/>  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dorail&" alt="dorail" /></p>
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dorail&label=Profile%20views&color=7E3AF2&style=for-the-badge" alt="dorail" /> 
+</p>
+
+<div align="center">
+  <a href="mailto:reloadpoom@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dorail&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3AF2&icon_color=7E3AF2" alt="Dorail's GitHub stats" width="49%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorail&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3AF2" alt="Top Languages" width="41%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorail&theme=radical&hide_border=true&background=0D1117&stroke=7E3AF2&ring=7E3AF2&fire=7E3AF2&currStreakNum=7E3AF2&sideNums=7E3AF2&currStreakLabel=7E3AF2&sideLabels=7E3AF2" alt="Dorail's streak" width="60%"/>
+</div>
+
+<br>
+
+<h2 align="center">🎧 Currently Coding With</h2>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&bar_color=7e3af2&bar_color_cover=true" alt="Spotify"/>
+</p>
