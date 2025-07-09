@@ -55,14 +55,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorail&theme=radical&hide_border=true&background=0D1117&stroke=7E3AF2&ring=7E3AF2&fire=7E3AF2&currStreakNum=7E3AF2&sideNums=7E3AF2&currStreakLabel=7E3AF2&sideLabels=7E3AF2" alt="Dorail's streak" width="60%"/>
 </div>
 
-<br>
 
-<h2 align="center">🎧 Currently Playing</h2>
-
-<div align="center">
-  <a href="https://open.spotify.com/track/3F3cGa5To6mJF6nGI5HUUE" target="_blank">
-    <img src="https://i.ibb.co/7Yxq0j3/sza-saturn.gif" alt="SZA-Saturn" width="60%"/>
-    <br>
-    <img src="https://img.shields.io/badge/Now_Playing-SZA_Saturn-7E3AF2?style=for-the-badge&logo=spotify" alt="Spotify"/>
-  </a>
-</div>
