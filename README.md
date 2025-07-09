@@ -26,7 +26,7 @@
 
 <br>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dorail&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E3AF2&icon_color=7E3AF2" alt="Dorail's GitHub stats" width="49%"/>
