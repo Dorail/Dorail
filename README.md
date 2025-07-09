@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,mongodb,git,github,vscode&theme=dark" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 
 <br>
 
-<h2 align="center">🎧 Currently Coding With</h2>
+<h2 align="center">🎧 Currently With</h2>
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem&bar_color=7e3af2&bar_color_cover=true" alt="Spotify"/>
